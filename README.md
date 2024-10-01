@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/paramveer singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paramveer singh" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/paramveer singh](https://www.linkedin.com/in/paramveer-singh-637362289/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paramveer singh" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/param169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="param169" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/paramtomar123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="paramtomar123" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/paramveer169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="paramveer169" height="30" width="40" /></a>
